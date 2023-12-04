@@ -43,7 +43,7 @@ Follow these steps to get started with this React + TypeScript + Vite starter:
 **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-starter.git
+   git clone https://github.com/RomanDenysov/starters.git --branch vite-react-ts --single-branch
    
    ```
 
